@@ -3,14 +3,16 @@
   qualification: B.Sc. Computer Engineering
   description: | # this will include new lines to allow paragraphs
     GPA: 17.06 out of 20 (3.52 out of 4)
-  Thesis: Interpretability of U-Net Model in the Segmentation and Classification of Medical Images
-  Thesis Advisor: Prof. H.R. Rabiee.
+    
+    Thesis: Interpretability of U-Net Model in the Segmentation and Classification of Medical Images
+    
+    Thesis Advisor: Prof. H.R. Rabiee.
   
 - name:Farzanegan Amin 1 High School
   dates: 2013 - 2017
   qualification: High School Diploma in Mathematics and Physics
   description: | # this will include new lines to allow paragraphs
-    affiliated with the National Organization for the Development of Exceptional Talents (NODET).
+    National Organization for the Development of Exceptional Talents (NODET).
     
     GPA: 19.67 out of 20 (4 / 4)
     
