@@ -1,5 +1,5 @@
 - name: Sharif Univeristy of Technology
-  dates: Sep 2017 - Feb 2022
+  dates: 2017 - 2022
   qualification: B.Sc. Computer Engineering
   description: | # this will include new lines to allow paragraphs
     GPA: 17.06 out of 20 (3.52 out of 4)
@@ -7,7 +7,7 @@
   Thesis Advisor: Prof. H.R. Rabiee.
   
 - name:Farzanegan Amin 1 High School
-  dates: Sep 2013 - Jun 2017
+  dates: 2013 - 2017
   qualification: High School Diploma in Mathematics and Physics
   description: | # this will include new lines to allow paragraphs
     affiliated with the National Organization for the Development of Exceptional Talents (NODET).
