@@ -1,103 +1,24 @@
-- company: Swiss Federal Institute of Technology Lausanne
-  job_title: Research Assistant
-  dates: July 2021 - Present
-  description: | # this will include new lines to allow paragraphs
-    In July 2021, I joined the Visual Intelligence for Transportation Lab ([VITA](https://www.epfl.ch/labs/vita/)), at Swiss Federal Institute of Technology Lausanne (EPFL), 
-    as a research assistant under the supervision of [Prof. Alexandre Alahi](https://people.epfl.ch/alexandre.alahi?lang=en). 
-    At first, I conducted a literature review on **Human Pose Prediction** in which I studied the recently emerging networks **Transformers**.
-    As a start, we participated in the Social Motion Forecasting challenge ([SoMoF](https://somof.stanford.edu/)), held by **Stanford University** and won the 3rd place.
-    Our proposed method outperformed the baselines of the challenge by over 20% and got accepted in the ICCV workshops 2021. 
-    After that we started to build a comprehensive library for Pose Prediction. I studied numerous different methods on pose prediction and gained a deep understanding of the topic. I also got proficient in Pytorch.
-    The current library supports 8 famous datasets, and 10 models, all of which I have implemented.
-  
-
 - company: Sharif University of Technology
   job_title: Research Assistant
-  dates: May 2021 - Present
+  dates: June 2021 - Present
   description: | # this will include new lines to allow paragraphs
-    I joined the **Medical Imaging Analysis** group in Machine Learning Lab ([MLL](http://mll.ce.sharif.edu/)) as a research assistant under the supervision of 
-    [Prof. Soleymani](https://scholar.google.com/citations?user=S1U0KlgAAAAJ&hl=en).
-    My project is **Weakly-Supervised Segmentation Using RNN-Based Registration**. A weakly-supervised method to label 2D slices of a 3D data, given a few labeled ones.
-    I exploited superpixel-based pseudo-labels to enhance the effectiveness of unsupervised deformable registration.
-    I designed and implemented a model combining LSTM and ConvLSTM and Unet to take advantage of the sequential information existed between consecutive slices.
-    We have achieved better results up to 5% on abdominal datasets compared to state-of-the-art.
+    ​In June 2021, I joined the Medical Image Analysis group in 
+    [**Data Science and Machine Learning Lab**] (http://ml.dml.ir/) as a research assistant under the supervision of 
+    [Prof.Rabiee] (http://sina.sharif.edu/~rabiee/). 
+    My project was the **Interpretability of Segmentation Models** with a focus on medical applications. 
+    I have tried to find new and innovative ways to make segmentation models interpretable using the legacy methods in classification. 
+    As a solution, I developed a wrapper function that performs the classification interpretability methods pixel-wise and then combines them using a flexible pattern. 
+    Currently, I am working on the evaluation of the interpretation of segmentation.
 
 
 - company: Sharif University of Technology
   job_title: Research Assistant
   dates: November 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    In 2020, I joined the **Medical Image Analysis** group in Robust and Interpretable Machine Learning Lab ([RIML](http://sharif.ir/~rohban/)) as a research assistant under the supervision of 
-    [Prof. Rohban](https://scholar.google.com/citations?hl=en&user=pRyJ6FkAAAAJ&view_op=list_works&sortby=pubdate).
-    My project was **Spatio-Temporal Segmentation of Myocardial Infarction**. We spent a lot of time clearing and registering our clinical data. 
-    We used cardiac MRI for the deliniation of scar tissues in the myocardial region of the heart. I designed and implemented a model based on LSTM and Conv3D to solve this problem.
-
-
-- company: Analysaur
-  job_title: Co-Founder and Product Manager
-  dates: June 2019 - February 2020
-  description: |
-    Analysaur is a startup company focused on digital marketing and advertisement with a focus on Telegram Messenger.
-    It is an all-in-one online platform connecting buyers, sellers, and advertisers together.
-    We assembeled a team of talented individuals and developed two functioning products. 
-    We mainly used Python, JavaScript, and GoLang, with frameworks like Django, ReactJs and VueJs in a brilliant microservice architecture.
-
-
-- company: Weblite Company
-  job_title: Software Engineer
-  dates: January 2019 - May 2019
-  description: |
-    [Weblite](https://www.weblite.me/) is the **Largest Online Educational Platform** in Iran.
-    It enables teachers and students to present themselves, connect, conduct live sessions, and produce educational content.
-    I developed Weblite messenger, the core of the platform. I also designed and developed several applications used in the platform.
-
-
-# - company: DataDays
-#   job_title: Participant
-#   dates: November 2019
-#   description: |
-#     [DataDays](https://github.com/SharifDataDays) is the First National Data Scientific Competition held by the Sharif University of Technology. 
-#     Its main goal is to broaden the appeal for working on problems related to data. Moreover, it is a large-scale attempt to assess the level of knowledge in this field in Iran.
-#     The dataset of challenge mainly comprises online advertisements published by people in different categories. 
-#     Participants had to clean this data, look for correlations, and make useful inferences.
-
-
-- company: AI Challenge
-  job_title: Scientific Staff & Participant
-  dates: December 2018 & 2019
-  description: |
-    [Sharif AI Challenge](https://github.com/SharifAIChallenge) is a programming competition for all who are interested in artificial intelligence.     
-    In 2018, I assembeled a team of three and participated in the challenge. I learned about Graph Algorithms, Constraint Satisfaction Problems, Backtraking, and the concept of Huristics.
-    In 2019, I help organizing the even as a scientific staff, gathering and contributing in desiging the scientific aspects of the game.
-
-
-- company: Winter Seminar Series
-  job_title: Technical Specialist
-  dates: January 2018 & 2019
-  description: |
-    [WSS](https://github.com/Winter-Seminar-Series/WSS-site), is a seminar series conducted every winter at Sharif University on advanced topics of computer science and engineering.
-    I was in charge of developing a Telegram bot, used by presenters, participants, and staffs.
-
-
-
-- company: Sharif University of Technology
-  job_title: Teaching Assistant
-  description: |
-    Some of my experiences as teaching assistant:
-    
-    **Fall 2021:**
-    + Design of Algorithms - Dr. Zarrabi-Zadeh (Lead TA): 
-        [Leading a team of 10 TAs] 
-        
-    **Spring 2021:**
-    + Advanced Information Retrieval - Dr. Soleymani
-    + Artificial Intelligence - Dr. Rohban
-    + Design of Algorithms - Dr. Seddighin
-      
-    **Fall 2020:**
-    + Discrete Structures - Dr. Zarrabi-Zadeh
-    + Discrete Structures - Dr. Abam    
-    
-    **Spring 2020:**
-    + Artificial Intelligence - Dr. Rohban
-    
+    ​​In November 2020, I joined the Medical Image Analysis group in **Bioinformatics and Computational Biology Lab** as a research assistant under the supervision of 
+    [Prof. Rohban](http://sharif.edu/~rohban/). 
+    My project was the Design of An Automatic Orthodontic Diagnosis and Cephalometric Analysis Tool. 
+    I developed several semi-supervised and self-supervised models to solve this problem since our labelled dataset was very small and we had a large unlabelled dataset. 
+    I also tried to solve this problem from another angle: I split the problem into two separate landmark detection and classification tasks. 
+    I developed several CNN regression and segmentation models for landmark detection. 
+    Currently, I work on error analysis of these models to improve them. 
