@@ -17,7 +17,7 @@
   description: | # this will include new lines to allow paragraphs
     ​​In November 2020, I joined the Medical Image Analysis group in **Bioinformatics and Computational Biology Lab** as a research assistant under the supervision of 
     [Prof. Rohban](http://sharif.edu/~rohban/). 
-    My project was the Design of An Automatic Orthodontic Diagnosis and Cephalometric Analysis Tool. 
+    My project was the **Design of An Automatic Orthodontic Diagnosis and Cephalometric Analysis Tool**. 
     I developed several semi-supervised and self-supervised models to solve this problem since our labelled dataset was very small and we had a large unlabelled dataset. 
     I also tried to solve this problem from another angle: I split the problem into two separate landmark detection and classification tasks. 
     I developed several CNN regression and segmentation models for landmark detection. 
