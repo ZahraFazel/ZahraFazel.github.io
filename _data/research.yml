@@ -3,8 +3,9 @@
   dates: June 2021 - Present
   description: | # this will include new lines to allow paragraphs
     ​In June 2021, I joined the Medical Image Analysis group in 
-    [**Data Science and Machine Learning Lab**] (http://ml.dml.ir/) as a research assistant under the supervision of 
-    [Prof.Rabiee] (http://sina.sharif.edu/~rabiee/). 
+    [**Data Science and Machine Learning Lab**] (http://ml.dml.ir/) 
+    as a research assistant under the supervision of 
+    [Prof. Rabiee] (http://sina.sharif.edu/~rabiee/). 
     My project was the **Interpretability of Segmentation Models** with a focus on medical applications. 
     I have tried to find new and innovative ways to make segmentation models interpretable using the legacy methods in classification. 
     As a solution, I developed a wrapper function that performs the classification interpretability methods pixel-wise and then combines them using a flexible pattern. 
