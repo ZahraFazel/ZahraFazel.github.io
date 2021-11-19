@@ -1,0 +1,30 @@
+<div class="container research-container">
+  <h3>{{ site.research_title | default: "Research" }}</h3>
+  {% for research in site.data.research %}
+    <div class="row clearfix research">
+      <div class="col-xs-12 col-sm-4 col-md-3 col-print-12 left-column">
+        <h4 class="name">
+          {%- if research.link -%}
+            {% include a.html href=research.link %}
+          {%- endif -%}
+          {{ research.company }}
+          {%- if research.link -%}
+            </a>
+          {%- endif -%}
+          </h4>
+        <p><b>{{ research.job_title }}</b></p>
+        <p>{{ research.dates }}</p>
+        {% for job in research.jobs %}
+          <p><b>{{ job.title }}</b></p>
+          <p>{{ job.dates }}</p>
+        {% endfor %}
+      </div>
+      <div class="col-xs-12 col-sm-8 col-md-9 col-print-12">
+        {%- if research.quote -%}
+          <p class="quote">{{ research.quote }}</p>
+        {%- endif -%}
+        {{ research.description | strip | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
