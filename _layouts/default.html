@@ -3,7 +3,7 @@
 
 {%- include head.html -%}
 
-<body style="background-image: url(/images/grey.png)">
+<body style="background-image: url(/images/back.png)">
 
     {%- include header.html -%}
 
@@ -12,18 +12,26 @@
 
             {%- include about.html -%}
 
-            {%- if site.data.projects.size > 0 -%}
-                {%- include projects.html -%}
-            {%- endif -%}
-
-            {%- if site.data.experience.size > 0 -%}
-                {%- include experience.html -%}
-            {%- endif -%}
-
             {%- if site.data.education.size > 0 -%}
                 {%- include education.html -%}
             {%- endif -%}
 
+            {%- if site.data.research.size > 0 -%}
+                {%- include research.html -%}
+            {%- endif -%}
+
+            {%- if site.data.teaching.size > 0 -%}
+                {%- include teaching.html -%}
+            {%- endif -%}
+
+            {%- if site.data.work.size > 0 -%}
+                {%- include work.html -%}
+            {%- endif -%}
+
+            {%- if site.data.volunteer.size > 0 -%}
+                {%- include volunteer.html -%}
+            {%- endif -%}
+			
             {%- include more.html -%}
 
         </div>
